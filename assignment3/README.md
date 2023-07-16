@@ -12,7 +12,8 @@
 ![Circle](https://github.com/ArmanGeramiBW/python_course/assets/137865421/e902d2d5-f7a8-41d2-bc48-529573582fd6)
 
 #Names
-![Name_](https://github.com/ArmanGeramiBW/python_course/assets/137865421/0305adaa-9adf-4c0a-a200-39c828994e28)
+![kk](https://github.com/ArmanGeramiBW/python_course/assets/137865421/fdcb6254-775f-480f-bff2-c510807053de)
+
 
 #Operationsـonـfour-digitـnumbers
 ![Tamrin7](https://github.com/ArmanGeramiBW/python_course/assets/137865421/777967a9-dcaf-4b1b-a70b-0af3441b8596)
