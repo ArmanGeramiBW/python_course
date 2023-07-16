@@ -8,4 +8,4 @@ D = int(input("please write sadgan:"))
 
 E = int(input("please write hezargan:"))
 
-print(E,D,C,B,".",A)
+print (E,D,C,B,".",A,sep="")
