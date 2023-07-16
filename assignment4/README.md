@@ -9,3 +9,5 @@
 
 #Special_Number
 ![Special_Number](https://github.com/ArmanGeramiBW/python_course/assets/137865421/a350cbcc-058b-40a9-8e76-ae5f951c47fe)
+#A_&_B_in_number
+![ll](https://github.com/ArmanGeramiBW/python_course/assets/137865421/dd3e6ec4-372f-4176-bc4b-1d8d48abf8ed)
