@@ -1,5 +1,5 @@
 #decimal number
-![hh](https://github.com/ArmanGeramiBW/python_course/assets/137865421/04ff5efd-5a54-4a26-a4fb-b417525381b0)
+![13](https://github.com/ArmanGeramiBW/python_course/assets/137865421/2cf1e032-b235-46fd-837b-8ae5cbed164d)
 
 
 #Year_Of_Birth
