@@ -1,6 +1,5 @@
 passcode = 5007
 police_pass = 7005
-password = int(input("please enter your passcode:"))
 list_pass = []
 S = 0
 while S < 3 :
