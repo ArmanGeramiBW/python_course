@@ -12,3 +12,6 @@
 
 #The_FifthHome_Work
 ![SEVEN](https://github.com/ArmanGeramiBW/python_course/assets/137865421/c5327878-aacb-46b8-9ff2-de5294b96ada)
+
+#Odd_&_Even
+![ggg](https://github.com/ArmanGeramiBW/python_course/assets/137865421/014360f6-ffdb-4f2f-8d8a-9075f53e1f0c)
