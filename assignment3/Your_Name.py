@@ -1,5 +1,5 @@
-A = str(input("please write your First_Name:"))
+Name = str(input("please write your first name:"))
 
-B = str(input("please write your Last_Name:"))
+Last_name = str(input("please write your last name:"))
 
-print(A,"_",B)
+print(Name,"_",Last_name)
