@@ -2,7 +2,7 @@
 ![calcu](https://github.com/ArmanGeramiBW/python_course/assets/137865421/e4fc27be-7a8c-4558-89d1-14b3239397b9)
 
 #Count&Str
-![Count_ _STr](https://github.com/ArmanGeramiBW/python_course/assets/137865421/942ad2b5-7985-482e-86fa-459ab4f334b7)
+![image](https://github.com/ArmanGeramiBW/python_course/assets/137865421/04097a45-5d40-4f07-b1a2-acfa48439585)
 
 #Advanced_Thermometer
 ![damaaaaaaa](https://github.com/ArmanGeramiBW/python_course/assets/137865421/6cee3fee-9784-4192-9eb6-6b26d1c66383)
