@@ -1,11 +1,10 @@
-H = float(input("Please write the height of the circle:"))
+h = float(input("Please write the radius of the circle:"))
+r = float(input("Please write the height of the circle:"))
 
-R = float(input("Please write the radius of the circle:"))
+s = 2 * 3.14 * r * h
 
-V = (3.14*R*R*H) 
+v = (3.14 * h *(r **2))
 
-SA = (2*3.14*R*H +(2*3.14*R*R))
+s_a = 2 * 3.14 * (r**2) + 2 *3.14 * r * h
 
-SG = (2*3.14*R*H)
-
-print("v",V,"sa",SA,"sg",SG)
+print(v , s , s_a)
