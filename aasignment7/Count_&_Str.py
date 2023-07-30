@@ -1,5 +1,5 @@
-String = input("Type your thing:")
-for i in String:
-    c = 0
+Str = input("enter youre string:")
+c = 0
+for i in Str:
     c += 1
 print(c)
