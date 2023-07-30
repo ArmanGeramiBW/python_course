@@ -14,5 +14,6 @@
 ![p](https://github.com/ArmanGeramiBW/python_course/assets/137865421/94db5b16-16f3-4486-b1ee-5caa4ccf8dd1)
 
 #ATM
-![56](https://github.com/ArmanGeramiBW/python_course/assets/137865421/a87373b7-3193-4845-b995-60c05cc8b655)
+![image](https://github.com/ArmanGeramiBW/python_course/assets/137865421/1daadcc1-4566-4c09-a997-7761dfe702e3)
+
 
