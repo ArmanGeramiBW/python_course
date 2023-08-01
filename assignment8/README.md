@@ -11,7 +11,8 @@
 
 
 # ]nput_&_sum:
-![jame add](https://github.com/ArmanGeramiBW/python_course/assets/137865421/e862cf9d-5cd6-45cd-9b94-bb8f6f257fc8)
+![image](https://github.com/ArmanGeramiBW/python_course/assets/137865421/50a0b63e-734c-443e-a491-5ddbdb98c41e)
+
 
 # Guess_number_with_BOT:
 ![guess ](https://github.com/ArmanGeramiBW/python_course/assets/137865421/cdaa4e2a-2e9f-4d8e-a813-ff0ffc778497)
