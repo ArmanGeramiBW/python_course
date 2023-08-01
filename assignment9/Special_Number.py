@@ -1,12 +1,9 @@
-c = 0
-number = int(input("Enter Your Number:"))
-
-for i in range(1,number):
-    if number % i == 0:
-        c += i
-    
-if c == number:
-	print("Yes this is that result that we want.")
-    
+num = int(input("please enter your number:"))
+answer = 0
+for i in range(1,num):
+    if num % i == 0:
+        answer += i
+if answer == num:
+    print("Yes,this is ok")
 else:
-	print("No this isn't our result.")
+    print("No,this isn't ok")
