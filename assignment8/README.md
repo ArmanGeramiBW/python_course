@@ -15,4 +15,5 @@
 
 
 # Guess_number_with_BOT:
-![guess ](https://github.com/ArmanGeramiBW/python_course/assets/137865421/cdaa4e2a-2e9f-4d8e-a813-ff0ffc778497)
+![image](https://github.com/ArmanGeramiBW/python_course/assets/137865421/fe76369d-f9fa-4fab-b689-bfc7f81f9efa)
+
