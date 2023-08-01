@@ -1,11 +1,10 @@
-x = []
-S = str(input("write your thing:"))
-sum_Numbers = 0
-Numbers = [ 1, 2, 3, 4, 5 ,6 ,7 ,8 ,9 , 0]
-for i in Numbers:
-    for j in S:
-        if str(i) == j:
-            sum_Numbers += i
-        else:
-           x.append(j)
-print(sum_Numbers)
+text = input("type some numbers(for example: 3.11.9):")
+sum = 0
+
+for c in text:
+    #isdigit()In Python, the isdigit() function is a string function that checks whether all characters are
+    ## in the same string. This function returns True if all characters are string and False otherwise
+    if c.isdigit():
+        sum += int(c)
+
+print("Outpot:" , sum)
