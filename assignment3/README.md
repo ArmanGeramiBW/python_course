@@ -13,7 +13,7 @@
 
 
 # Names:
-![kk](https://github.com/ArmanGeramiBW/python_course/assets/137865421/fdcb6254-775f-480f-bff2-c510807053de)
+![image](https://github.com/ArmanGeramiBW/python_course/assets/137865421/0f2a1514-f6f4-42ee-9bfa-92d7671b1a85)
 
 
 # Operationsـonـfour-digitـnumbers:
