@@ -18,3 +18,7 @@
 
 # Operationsـonـfour-digitـnumbers:
 ![Tamrin7](https://github.com/ArmanGeramiBW/python_course/assets/137865421/777967a9-dcaf-4b1b-a70b-0af3441b8596)
+
+# Project7:
+![image](https://github.com/ArmanGeramiBW/python_course/assets/137865421/51d340e2-ef66-4251-a449-df2cfafa1cdd)
+
