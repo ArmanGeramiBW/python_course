@@ -1,6 +1,6 @@
-Yekan = int(input('Please enter Yekan:'))
-Dahgan = int(input('Please enter dahgan:'))
-Sadgan = int(input('Please enter sadgan:'))
-Hezargan = int(input('Please enter hezargan:'))
-Ashar = int(input('please enter ashar:'))
-print(Hezargan,Sadgan,Dahgan,Yekan,".",Ashar)
+num = float(input("Please type your number :\n"))
+
+three_digitnumber = int(num// 10)
+tow_digitnumber = int(num// 100)
+one_digitnumber = int(num// 1000)
+print(f"{three_digitnumber}\n{tow_digitnumber}\n{one_digitnumber}")
