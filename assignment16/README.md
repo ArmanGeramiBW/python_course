@@ -15,3 +15,6 @@ The reason for their use:
  Because of its organized and readable structure, JSON is suitable where the data is structured.
 
 XML is suitable because it can be expanded and changed in cases where there is a need to develop and change in the future.
+
+# Text to voice:
+![Screenshot 2023-08-06 114149](https://github.com/ArmanGeramiBW/python_course/assets/137865421/d677deae-cf51-4358-82ea-3337d04d665f)
