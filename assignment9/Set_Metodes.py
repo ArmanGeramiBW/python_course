@@ -15,7 +15,7 @@ for i in range(0, number_of_repetition):
 5 = discard
 6 = update
 """)
-    our_method = int(input("Which method do you want to try? (Enter a number from 1 to 6): "))
+    our_method = int(input("Which method do you want to use?!: "))
     
     # Print the set
     print(my_set)
@@ -54,4 +54,5 @@ for i in range(0, number_of_repetition):
 
 # End of loop
 print("Thank you for using us. See you soon😁😄😉")
+
 
