@@ -35,11 +35,15 @@ for i in range(0 , repetition):
         print("dictionary:" , Dictionary) 
 
     elif methode == "4":
+        # This code asks the user to enter the key they want to insert and its value
         a = input("Please type your key that you want to insert:") 
         a2 = input("Please type your value that you want to insert:")
-        #From a to a2
+        
+        # This code uses the update() method to add or update the specified key-value pair in the dictionary
         Dictionary.update({a : a2})
+        # This code prints the updated dictionary
         print("dictionary:" , Dictionary)
+
 
     elif methode == "5":
         k = Dictionary.keys()
