@@ -9,3 +9,8 @@
 
 # List of non_repeating :
 ![image](https://github.com/ArmanGeramiBW/python_course/assets/137865421/fdc36e1e-f27f-4283-8293-cb9eef20d488)
+
+# List & Dict :
+![Screenshot 2023-08-13 044428](https://github.com/ArmanGeramiBW/python_course/assets/137865421/8a9b3b7b-5858-4735-8356-c162d8f24cb7)
+
+# RPS :
