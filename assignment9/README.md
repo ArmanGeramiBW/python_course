@@ -14,3 +14,4 @@
 ![Screenshot 2023-08-13 044428](https://github.com/ArmanGeramiBW/python_course/assets/137865421/8a9b3b7b-5858-4735-8356-c162d8f24cb7)
 
 # RPS :
+![Screenshot 2023-08-13 173933](https://github.com/ArmanGeramiBW/python_course/assets/137865421/ac35ed65-ef95-4c25-9048-ebfb0ebfab3e)
